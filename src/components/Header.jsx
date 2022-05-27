@@ -3,7 +3,7 @@ import { NotesRounded } from "@material-ui/icons";
 
 function Header() {
     return <header>
-        <h1><NotesRounded/>Keeper App</h1>
+        <h1><NotesRounded/>noteTaker</h1>
     </header> 
 }
 
